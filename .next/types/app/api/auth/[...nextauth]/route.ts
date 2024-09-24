@@ -1,4 +1,4 @@
-// File: C:\Users\thami\property-pulse\app\api\auth\[...nextauth]\route.js
+// File: C:\Users\thami\Monolitos_house\app\api\auth\[...nextauth]\route.js
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

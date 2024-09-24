@@ -1,4 +1,4 @@
-// File: C:\Users\thami\property-pulse\app\api\properties\route.js
+// File: C:\Users\thami\Monolitos_house\app\api\properties\route.js
 import * as entry from '../../../../../app/api/properties/route.js'
 import type { NextRequest } from 'next/server.js'
 

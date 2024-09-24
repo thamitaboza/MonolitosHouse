@@ -1,4 +1,4 @@
-// File: C:\Users\thami\property-pulse\app\properties\page.jsx
+// File: C:\Users\thami\Monolitos_house\app\properties\page.jsx
 import * as entry from '../../../../app/properties/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
